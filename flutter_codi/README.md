@@ -2,15 +2,10 @@
 
 Biosteenyc'ning ob-havo ilovasi
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+lib - Ildiz papka
+lib/services/ - joylashuv va ob-havoning api xizmatlari
+lib/models/ - servieslardan olingan ma'lumotni dart obyektiga modellashtirish
+lib/screens/ - ilovaning oynalari
+lib/widgets/ - oynalarga ishlatilgan widgetlar: Elementlar
+main.dart - oynalarni ishga tushiruvchi funksiya
+🤪**Google Translate orqali o'zinggizni tilinggizga tarjima qiling** UZB to Your language
