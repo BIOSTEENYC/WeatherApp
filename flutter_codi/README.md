@@ -3,7 +3,7 @@
 Biosteenyc'ning ob-havo ilovasi
 
 lib - Ildiz papka
-lib/services/ - joylashuv va ob-havoning api xizmatlari
+lib/services/ - joylashuv va ob-havoning api xizmatlari 
 lib/models/ - servieslardan olingan ma'lumotni dart obyektiga modellashtirish
 lib/screens/ - ilovaning oynalari
 lib/widgets/ - oynalarga ishlatilgan widgetlar: Elementlar
